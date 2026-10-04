@@ -1,9 +1,11 @@
 # fcitx5-hymmnos-datastream
 
+[English](README.en.md)
+
 以《魔塔大陆》(Ar tonelico) **Hymmnos 语**为主题的 fcitx5 输入法皮肤,姊妹篇:
 [fcitx5-hymmnos-hymn-score](https://github.com/Liushenwuzhu-Alpaca/fcitx5-hymmnos-hymn-score)。
 
-**数据流 (Datastream)** -- 再现 Hymmnoserver 终端界面:面板两侧是下坠的
+**数据流 (Datastream)** -- 面板两侧是下坠的
 Hymmnos 字形数据雨,文字流内容正是诗歌本身:
 
 > **Was yea ra chs hymmnos mea · Wee ki ra sonwe yor · paks hymme**

@@ -6,7 +6,7 @@ A [fcitx5](https://fcitx-im.org) skin themed on the **Hymmnos language** from
 Ar tonelico. Sister project:
 [fcitx5-hymmnos-hymn-score](https://github.com/Liushenwuzhu-Alpaca/fcitx5-hymmnos-hymn-score).
 
-**Datastream** recreates a Hymmnoserver terminal: glyph rain falls along both
+**Datastream** glyph rain falls along both
 edges of the panel, and the falling stream *is* the song itself:
 
 > **Was yea ra chs hymmnos mea · Wee ki ra sonwe yor · paks hymme**
